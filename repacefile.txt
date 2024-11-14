@@ -1,0 +1,1 @@
+ThWas Was the file writer class and writes the para in the txt file nex line.Thanks

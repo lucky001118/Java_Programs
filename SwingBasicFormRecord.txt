@@ -1,0 +1,47 @@
+************************************************ RECORDS OF APPLIED CUSTOMER ****************************************
+
+Name :Ritika Sahu
+Date of Birth: 11/02/2004
+Age: 19
+Local Address: H No. 170, Anjora Rajnandgaon
+Permanent Address: H No. 170, Anjora Rajnandgaon
+Mobile Number: 1253134621
+
+-------------------------------------------------------------------------------------------------
+
+Name :Yatish Gautam
+Date of Birth: 23/09/2004
+Age: 19
+Local Address: C block 2nd flore room no 440, Anand Vihar
+Permanent Address: H No. 980, Batalian Rajnandgaon
+Mobile Number: 1234567890
+
+-------------------------------------------------------------------------------------------------
+
+Name: Lucky Manikpuri
+Date of Birth: 18/09/2002
+Age: 21
+Local Address: H. No. 198, Anjora Rajnandgaon
+Permanent Address: H. No. 198, Anjora Rajnandgaon
+Mobile Number: -1342277470
+
+-------------------------------------------------------------------------------------------------
+
+Name: Lucky Manikpuri
+Date of Birth: 18/09/2002
+Age: 21
+Local Address: H. No. 198, Anjora Rajnandgaon
+Permanent Address: H. No. 198, Anjora Rajnandgaon
+Mobile Number: 7247657122
+
+-------------------------------------------------------------------------------------------------
+
+Name: Domendra Nirmalkar
+Date of Birth: 19/06/2004
+Age: 19
+Local Address: H No. 170, Anjora Rajnandgaon
+Permanent Address: H No. 170, Anjora Rajnandgaon
+Mobile Number: 0987654321
+
+-------------------------------------------------------------------------------------------------
+
